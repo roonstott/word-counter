@@ -1,4 +1,4 @@
-let testString = "one two three four five two three four five three four five four five five";
+let testString = "one two two three three three four four four four five five five five five";
 
 
 function countWords(stringSentence) {
