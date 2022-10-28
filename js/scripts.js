@@ -1,4 +1,5 @@
 let testString = "one two two three three three four four four four five five five five five";
+let testStringB = "A cat is a good friend to have, a good friend to have!"
 
 
 function countWords(stringSentence) {
@@ -31,4 +32,4 @@ function hasItBeenChecked(wordReference, pushArray){
   };
 };
 
-console.log(countWords(testString));
+console.log(countWords(testStringB));
